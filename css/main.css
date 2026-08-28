@@ -1,0 +1,447 @@
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500;600;700;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.abhaya-libre-bold {
+  font-family: "Abhaya Libre", serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.Abhaya-Libre {
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: black;
+  font-family: 'Abhaya Libre';
+  position: relative;
+  display: flex;
+  gap: 15px;
+  left: 75px;
+  top: 15px;
+}
+
+#Sunny {
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  position: relative;
+  margin-left: -65px;
+  top: 1px;
+}
+
+#info-icon {
+  display: inline-flex;
+  align-items: center;      
+  justify-content: center;    
+  width: 8px;                 
+  height: 8px;
+  background: #EB5B5B;
+  border-radius: 50%;      
+  color: #fff;
+  font-size: 1px;             
+  font-weight: bold;           
+  line-height: 1;             
+  text-align: center;   
+  position: relative;
+  left: 385px;
+  top: -32px;
+}
+
+#meni-polos {
+  background: #717171;
+  height: 2px;
+  width: 28px;
+  position: relative;
+  top: -25px;
+  left: 61px;
+}
+
+.Meni {
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: black;
+  font-family: 'Poppins';
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  gap: 15px;
+  left: 60px;
+  top: 15px;
+}
+
+.icon-group {
+  display: flex;
+  gap: 10px;           
+  align-items: center;
+  position: relative;
+  top: -8px;
+  margin-left: 355px;
+}
+
+#button-Free {
+  z-index: 5
+  margin: 0;
+  padding: 0;
+  font-size: 5px;
+  font-family: 'Poppins';
+  font-weight: 500;
+  height: 30px;
+  width: 125px;
+  text-align: center;
+  background: #FFCCCC;
+  border-radius: 50px;
+  line-height: 30px;
+  margin-left: 5px;
+  position: relative;
+  top: 20px;
+}
+
+#Text-button {
+  margin: 0;
+  padding: 0;
+  font-family: 'Abhaya Libre';
+  font-size: 20px;
+  font-weight: 800;
+  position: relative;
+  left: 5px;
+  top: -35px
+}
+
+#TextText-button {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 5px;
+  color: #797979;
+  line-height: 1;
+  display: block;
+  position: relative;
+  left: 7px;
+  top: -60px;
+}
+
+#Cart {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
+  font-weight: 500;
+  background: #B91122;
+  height: 30px;
+  width: 80px;
+  line-height: 30px;
+  font-size: 10px;
+  align-self: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  border-radius: 5px;
+  position: relative;
+  left: 5px;
+  top: -45px;
+}
+
+#work {
+  margin: 0;
+  padding: 0;
+  color: #797979;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1px;
+  position: relative;
+  top: -45px;
+  left: 15px;
+}
+
+#Cream {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 200px;
+  top: -350px;
+}
+
+#Price {
+  margin: 0;
+  padding: 0;
+  background: #FFF8E7;
+  height: 115px;
+  width: 70px;
+  position: relative;
+  top: -170px;
+  left: 345px;
+  border-radius: 5px;
+}
+
+#Details {
+  margin: 0;
+  padding: 0;
+  color: #414141;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 0.5px;
+  position: relative;
+  top: 8px;
+  left: 7px;
+}
+
+#price {
+  margin: 0;
+  padding: 0;
+  font-family: 'Abhaya Libre';
+  position: relative;
+  top: 15px;
+  left: 5px;
+}
+
+#ml {
+  margin: 0;
+  padding: 0;
+  font-family: 'Abhaya Libre';
+  font-size: 5px;
+  position: relative;
+  top: 25px;
+  left: 6px;
+  font-weight: 700;
+  display: flex;
+}
+
+#star {
+  margin: 0;
+  padding: 0;
+  color: #BC8D14;
+  font-size: 5px;
+  list-style: none;
+  position: relative;
+  display: flex;
+  gap: 1px;
+  top: 10px;
+  left: 5px;
+}
+
+#Star {
+  color: #434240;
+}
+
+#Strel {
+  margin: 0;
+  padding: 0;
+  height: 12px;
+  width: 25px;
+  background: #FFF8E7;
+  position: relative;
+  left: 5px;
+  top: 38px;
+  border-radius: 0px 0px 8px 8px;
+  border: 0.5px solid black;
+}
+
+#Pl {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 11px;
+  top: -4.5px;
+  font-size: 15px;
+}
+
+#St-L {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: -5px;
+  top: -6px;
+  font-size: 10px;
+}
+
+#St-R {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 1px;
+  top: -6px;
+  font-size: 10px;
+}
+
+#circle {
+  z-index: -1;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+  position: absolute;
+  left: 220px;
+  top: 120px;
+  pointer-events: none;
+  border: 1px dashed #B1B1B1;
+}
+
+#Best {
+  margin: 0;
+  padding: 0;
+  font-family: 'Abhaya Libre';
+  font-weight: 800;
+  font-size: 20px;
+  position: relative;
+  top: -325px;
+  left: 105px;
+}
+
+#Lorem {
+  margin: 0;
+  padding: 0;
+  color: #797979;
+  font-family: 'Popping';
+  font-weight: 500;
+  display: flox;
+  text-align: center;
+  position: relative;
+  top: -325px;
+  left: 35px;
+  font-size: 10px;
+  display: block;
+}
+
+#Cream-1 {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: -50px;
+  left: -115px;
+}
+
+#circle-1 {
+  z-index: -1;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  position: absolute;
+  left: 50px;
+  top: 490px;
+  pointer-events: none;
+  border: 1px dashed #B1B1B1;
+}
+
+#Gos {
+  margin: 0;
+  padding: 0;
+  font-family: 'Abhaya Libre';
+  font-weight: 800;
+  font-size: 25px;
+  position: relative;
+  top: -275px;
+  left: 170px;
+  display: inline-block
+}
+
+#Lorem-2 {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
+  font-weight: 500;
+  display: inline-block;
+  position: relative;
+  font-size: 5px;
+  top: -195px;
+  left: -2px;
+  color: #797979;
+}
+
+#Load {
+  color: black;
+}
+
+#Hd {
+  margin: 0;
+  padding: 0;
+  font-family: 'Abhaya Libre';
+  font-weight: 800;
+  font-size: 25px;
+  position: relative;
+  top: -130px;
+  left: 40px;
+  display: inline-block;
+}
+
+#Lorem-3 {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
+  font-weight: 500;
+  display: inline-block;
+  position: relative;
+  font-size: 5px;
+  top: -120px;
+  left: 42px;
+  color: #797979;
+}
+
+#Load-2 {
+  color: black;
+}
+
+#Cream-2 {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: -300px;
+  left: 250px;
+}
+
+#circle-2 {
+  z-index: -1;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  height: 125px;
+  width: 125px;
+  border-radius: 100px;
+  position: absolute;
+  left: 270px;
+  top: 680px;
+  pointer-events: none;
+  border: 1px dashed #B1B1B1;
+}
+
+#Color-1 {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: -255px;
+  left: 144px;
+}
+
+.Dose {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 8px;
+  position: relative;
+  top: -300px;
+  left: 345px;
+  display: inline-block
+}
+
+#PH {
+  position: relative; 
+  top: -287px;
+  left: 273px;
+}
